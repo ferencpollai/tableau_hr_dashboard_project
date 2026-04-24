@@ -114,6 +114,14 @@ With this dashboard, an HR manager could:
 
 ---
 
+## 🔍 Example Insights
+
+- Post-2020 increase in employee attrition
+- Potential salary disparities across gender and education levels
+- Department-level workforce imbalances by age group
+
+---
+
 ## 📌 Takeaway
 
 Good dashboards don’t just visualize HR data —  
